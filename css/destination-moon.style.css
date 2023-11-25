@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+hr{
+    position: absolute;
+    width: 500px;
+    top: 58px;
+    left: 150px;
+}
+body{
+    background-image: url("/space-tourism-website-main/starter-code/assets/destination/background-destination-desktop.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 1024px;
+}
+
+#container{
+    margin:  0 auto;
+    width: 95%;
+
+
+}
+#content{
+    display: flex;
+}
+#content #izquierda{
+    width: 50%;
+    
+    color:white;
+    margin-left: 126px;
+    
+}
+#izquierda #h2{
+    margin-top: 156px;
+    margin-bottom: 30px;
+}
+#izquierda img{
+    margin-top: 200px;
+}
+#content #derecha{
+    width: 40%;
+    margin: 0;
+    
+}
+#derecha #menu2{
+    display: flex;
+    margin-top:100px;
+    color: white;
+}
+#derecha #h1{
+
+    
+}
